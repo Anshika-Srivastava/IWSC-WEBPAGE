@@ -472,7 +472,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -500,11 +500,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 span {
-  color: #cda45e;
+  color: #e6b156;
 }
 
 #hero h2 {
-  color: #eee;
+  color: rgb(248, 248, 245);
   margin-bottom: 10px 0 0 0;
   font-size: 22px;
 }
@@ -539,7 +539,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f5c87a 50%, rgba(205, 164, 94, 0.4) 52%);
+  background: radial-gradient(#e6b156 50%, rgba(141, 106, 45, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
