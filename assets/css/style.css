@@ -136,6 +136,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   line-height: 1;
   padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
   width: 36px;
   height: 36px;
   transition: 0.3s;
@@ -1264,7 +1267,6 @@ section {
 .book-a-table .php-email-form textarea {
   padding: 10px 12px;
 }
-
 .book-a-table .php-email-form button[type="submit"] {
   background: #cda45e;
   border: 0;
