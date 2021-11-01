@@ -13,7 +13,7 @@
   });
 
   // Smooth scroll for the navigation menu and links with .scrollto classes
-  var scrolltoOffset = $("#header").outerHeight() - 1;
+  /*var scrolltoOffset = $("#header").outerHeight() - 1;
   $(document).on(
     "click",
     ".nav-menu a, .mobile-nav a, .scrollto",
@@ -55,7 +55,7 @@
       }
     }
   );
-
+*/
   // Activate smooth scroll on page load with hash links in the url
   $(document).ready(function () {
     if (window.location.hash) {
